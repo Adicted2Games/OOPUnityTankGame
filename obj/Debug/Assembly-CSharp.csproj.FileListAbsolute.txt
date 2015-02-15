@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\bewijzenmap\periode2\dip\UnityTankGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\david\Desktop\-Bewijzenmap-\periode3\dip\UnityTankGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\-Bewijzenmap-\periode3\dip\UnityTankGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\-Bewijzenmap-\periode3\dip\UnityTankGame\obj\Debug\Assembly-CSharp.pdb
